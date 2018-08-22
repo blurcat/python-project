@@ -1,5 +1,5 @@
 # python2-project
-python项目
-
-运维相关
-后续持续更新
+#python2项目
+这个项目主要是在python2.X运行
+写一些运维相关的
+后续持续更新......
